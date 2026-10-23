@@ -7,6 +7,26 @@ A powerful, modern web application that uses Google's Gemini AI to analyze resum
 ![Vite](https://img.shields.io/badge/Vite-4.4.5-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+
+Repository: https://github.com/0xyz-exe/AI-Resume-Analyzer
+
+## Screenshots
+
+### Resume Upload & PDF Parsing
+![Resume Upload](docs/screenshots/01_resume_upload.png)
+
+### Intelligent Match Scoring & Profile Summary
+![Match Scoring](docs/screenshots/02_match_scoring.png)
+
+### Skills Gap Analysis & Extraction Breakdown
+![Skills Extraction](docs/screenshots/03_skills_extraction.png)
+
+### Tailored Improvement Suggestions & Insights
+![Improvement Suggestions](docs/screenshots/04_improvement_suggestions.png)
+
+### Detailed Report Export & Dark Mode Interface
+![Report Export](docs/screenshots/05_report_export.png)
+
 ## ✨ Features
 
 ### 🎯 **Core Functionality**
